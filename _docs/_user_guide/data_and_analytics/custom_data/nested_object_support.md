@@ -68,7 +68,7 @@ Shown below is a `/users/track` example with an "Ordered" custom event. Once an 
   "r_details": {
     "name": "McDonalds",
     "identifier": "12345678",
-    "location" ; {
+    "location":  {
       "city": "Montclair",
       "state": "NJ"
     }
